@@ -24,6 +24,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-### Screenshot Can be Found Below
+## Screenshot Can be Found Below
 
-![Screenshot of Horiseon Web Page](http://url/to/horiseon-screenshot.png)
+![Screenshot of Horiseon Web Page](images/horiseon-screenshot.png)
