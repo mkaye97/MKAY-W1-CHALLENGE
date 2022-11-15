@@ -10,7 +10,6 @@ SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
-```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -24,7 +23,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
-## Screenshot Can be Found Below
+##Screenshot Can be Found Below
 
 ![Screenshot of Horiseon Web Page](images/horiseon-screenshot.png)
 
